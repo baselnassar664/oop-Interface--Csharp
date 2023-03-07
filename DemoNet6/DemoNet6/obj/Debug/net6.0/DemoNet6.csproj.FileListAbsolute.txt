@@ -1,0 +1,15 @@
+D:\c# console\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.exe
+D:\c# console\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.deps.json
+D:\c# console\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.runtimeconfig.json
+D:\c# console\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.dll
+D:\c# console\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.pdb
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.csproj.AssemblyReference.cache
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.AssemblyInfoInputs.cache
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.AssemblyInfo.cs
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.csproj.CoreCompileInputs.cache
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.dll
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\refint\DemoNet6.dll
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.pdb
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.genruntimeconfig.cache
+D:\c# console\DemoNet6\DemoNet6\obj\Debug\net6.0\ref\DemoNet6.dll
